@@ -1,4 +1,4 @@
-# adminMongo
+<!-- # adminMongo
 
 ![npm downloads badge](https://img.shields.io/npm/dm/admin-mongo.svg "npm download badge")
 ![npm version badge](https://img.shields.io/npm/v/admin-mongo.svg "npm version badge")
@@ -12,7 +12,7 @@ adminMongo is a cross platform user interface (GUI) to handle all your MongoDB c
 ## Support
 
 If my work helps you, please consider [![buying me a coffee](https://cdn-images-1.medium.com/max/738/1*G95uyokAH4JC5Ppvx4LmoQ@2x.png)](https://www.buymeacoffee.com/mrvautin)
-
+ -->
 ## Installation
 
 1. Navigate to folder & install adminMongo: `git clone https://github.com/mrvautin/adminMongo.git && cd adminMongo`
