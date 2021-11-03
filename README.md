@@ -225,7 +225,7 @@ is equivalent to:
 
 *Query documents*
 ![adminMongo search documents](https://raw.githubusercontent.com/mrvautin/mrvautin.github.io/master/images/adminMongo/adminMongo_querydocuments.png "adminMongo search documents")
-
+<!-- 
 
 ### Documents
 
@@ -293,4 +293,4 @@ Please make any suggestions.
 
 ## License
 
-[The MIT License](https://github.com/mrvautin/adminMongo/tree/master/LICENSE)
+[The MIT License](https://github.com/mrvautin/adminMongo/tree/master/LICENSE) -->
